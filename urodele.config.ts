@@ -7,7 +7,7 @@ export const config = {
   },
   head: {
     title: "Knowbit's Blog",
-    brand: "Knowbit's Blog",
+    brand: "Knowbit",
     description: "A self-owned full-static blog system",
   },
   footer: {
