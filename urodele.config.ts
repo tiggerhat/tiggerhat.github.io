@@ -1,18 +1,18 @@
 export const config = {
   github: {
-    login: "glink25", // github login name, not user name
-    repo: "test-for-anything", //"urodele",
+    login: "tiggerhat", // github login name, not user name
+    repo: "tiggerhat.github.io", //"urodele",
     logInUrl: "",
     logInAuthUrl: "",
   },
   head: {
-    title: "Urodele",
-    brand: "Urodele",
+    title: "Knowbit's Blog",
+    brand: "Knowbit's Blog",
     description: "A self-owned full-static blog system",
   },
   footer: {
-    copyright: "© Glink",
-    copyrightUrl: "https://github.com/glink25",
+    copyright: "© Knowbit",
+    copyrightUrl: "https://tiggerhat.github.io",
   },
   pagination: {
     size: 10,
