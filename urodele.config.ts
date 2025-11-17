@@ -2,8 +2,8 @@ export const config = {
   github: {
     login: "tiggerhat", // github login name, not user name
     repo: "tiggerhat.github.io", //"urodele",
-    logInUrl: "",
-    logInAuthUrl: "",
+    logInUrl: "https://github-login.cumthuangyj.workers.dev/api/oauth/authorize?redirect_uri=https://tiggerhat.github.io/login",
+    logInAuthUrl: "https://github-login.cumthuangyj.workers.dev/api/oauth/token",
   },
   head: {
     title: "Knowbit's Blog",
